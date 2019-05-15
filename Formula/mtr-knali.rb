@@ -6,7 +6,7 @@ class MtrKnali < Formula
   sha256 "568a52911a8933496e60c88ac6fea12379469d7943feb9223f4337903e4bc164"
 
   bottle do
-    root_url "https://repo.kosaka.moe/bottles"
+    root_url "https://repo.deam.work/bottles"
     sha256 "db61ae38057487e499ac730b2a2aa2b8437b04828c06aa946c6418ffccc70806" => :mavericks
   end
 

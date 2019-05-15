@@ -6,7 +6,7 @@ class BindKnali < Formula
   sha256 "c3c7485d900a03271a9918a071c123e8951871a219f4c1c4383e37717f11db48"
 
   bottle do
-    root_url "https://repo.kosaka.moe/bottles"
+    root_url "https://repo.deam.work/bottles"
     sha256 "3d2049535f9866a96bf6d0a6feb7e7f88b06d620587cfd40d1c2c39a56285df9" => :mavericks
   end
 

@@ -6,7 +6,7 @@ class NetworkCmdsKnali < Formula
   sha256 "cd074e5d982bd4fa1f1cc65fc43c109fcf7ecad1ea3c5958490295e59f6560d8"
 
   bottle do
-    root_url "https://repo.kosaka.moe/bottles"
+    root_url "https://repo.deam.work/bottles"
     sha256 "94309daac19efeea9ad9b5fc32b02a03a6444c8fe6822df3106820e63fdd77d3" => :mavericks
   end
 

@@ -6,7 +6,7 @@ class IpipIpdbC < Formula
   sha256 "568a52911a8933496e60c88ac6fea12379469d7943feb9223f4337903e4bc164"
 
   bottle do
-    root_url "https://repo.kosaka.moe/bottles"
+    root_url "https://repo.deam.work/bottles"
     sha256 "a5b74050682df8d8cbfbc582270d14b150a0cdee6ddad2a1669316a05017043f" => :mavericks
   end
 
